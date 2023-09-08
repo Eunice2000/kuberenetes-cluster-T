@@ -8,4 +8,4 @@ data:
     - userarn: arn:aws:iam::739812930869:user/Eunice_dev
       username: Eunice_dev
       groups:
-        - system:masters
+        - system:main
